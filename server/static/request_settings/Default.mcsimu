@@ -1,0 +1,18 @@
+{
+    "name": "Default",
+    "description": "These are default simulation parameters.",
+    "modification_time": "Fri Apr 10 03:31:59 2020 +0300 FLE Daylight Time",
+    "modification_time_unix": 1586478719.9574652,
+    "simulation_type": "ERD",
+    "simulation_mode": "Narrow",
+    "number_of_ions": 1000000,
+    "number_of_preions": 100000,
+    "seed_number": 101,
+    "number_of_recoils": 10,
+    "number_of_scaling_ions": 5,
+    "minimum_scattering_angle": 0.05,
+    "minimum_main_scattering_angle": 20,
+    "minimum_energy": 1.0,
+    "use_default_settings": "False",
+    "main_recoil": "Default"
+}

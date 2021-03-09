@@ -1,0 +1,30 @@
+{
+    "general": {
+        "name": "Default",
+        "description": "",
+        "modification_time": "Sun May 31 07:44:52 2020 +0300 FLE Daylight Time",
+        "modification_time_unix": 1590900292.0339866
+    },
+    "run": {
+        "fluence": 450600.0,
+        "current": 1.07,
+        "charge": 0.641,
+        "time": 600.0
+    },
+    "beam": {
+        "ion": "35Cl",
+        "energy": 8.515,
+        "charge": 4,
+        "energy_distribution": 0.0,
+        "spot_size": [
+            3.0,
+            5.0
+        ],
+        "divergence": 0.0,
+        "profile": "Uniform"
+    },
+    "geometry": {
+        "detector_theta": 41.12,
+        "target_theta": 20.6
+    }
+}

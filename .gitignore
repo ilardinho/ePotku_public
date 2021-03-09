@@ -1,0 +1,10 @@
+server/env/
+server/__pycache__
+server/*.pyc
+server/*.html
+server/*.json
+server/projects/
+server/testfiles/*
+
+# Default development database
+epotku.sqlite

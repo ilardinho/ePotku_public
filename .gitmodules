@@ -1,0 +1,4 @@
+[submodule "server/potku"]
+	path = server/potku
+	url = https://github.com/JYU-IBA/potku.git
+	branch = epotku_testing

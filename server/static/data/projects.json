@@ -1,0 +1,67 @@
+[{
+    "projectID": "001",
+    "userID": "001",
+    "projectName": "Malliprojekti 1",
+    "usergoup": "MIT"
+},
+{
+    "projectID": "002",
+    "userID": "001",
+    "projectName": "Malliprojekti 2",
+    "usergoup": ["MIT", "JYU"]
+  },
+  {
+    "projectID": "003",
+    "userID": "003",
+  "projectName": "Malliprojekti 3",
+    "usergoup": "JYU"
+  },
+  {
+    "projectID": "004",
+    "userID": "004",
+    "projectName": "Malliprojekti 4",
+    "usergoup": "JYU"
+  },
+  {
+    "projectID": "005",
+    "userID": "005",
+    "projectName": "Malliprojekti 5",
+    "usergoup": "LUT"
+  },
+  {
+    "projectID": "006",
+    "userID": "006",
+    "projectName": "Malliprojekti 6",
+    "usergoup": ""
+  },
+  {
+    "projectID": "007",
+    "userID": "007",
+    "projectName": "Malliprojekti 7",
+    "usergoup": "JHS"
+  },
+  {
+    "projectID": "008",
+    "userID": "001",
+    "projectName": "Malliprojekti 8",
+    "usergoup": ""
+  },
+  {
+    "projectID": "009",
+    "userID": "006",
+    "projectName": "Malliprojekti 9",
+    "usergoup": ""
+  },
+  {
+    "projectID": "010",
+    "userID": "006",
+    "projectName": "Malliprojekti 10",
+    "usergoup": ""
+  },
+  {
+    "projectID": "011",
+    "userID": "004",
+    "projectName": "Malliprojekti 11",
+    "usergoup": ""
+  }
+]

@@ -1,0 +1,64 @@
+[{
+  "userID": "001",
+  "username": "Ismo",
+  "firstName": "Ismo",
+  "lastName": "Laitela",
+  "userGroup": "MIT",
+  "emailAddress": "12345@gmail.com",
+  "role": "user",
+  "priority": "normal"
+}, {
+  "userID": "002",
+  "username": "MattiM",
+  "firstName": "Matti",
+  "lastName": "Meikäläinen",
+  "userGroup": [ "MIT", "JYU"],
+  "emailAddress": "12345@gmail.com",
+  "role": "user",
+  "priority": "super"
+}, {
+  "userID": "003",
+  "username": "MaijaM",
+  "firstName": "Maija",
+  "lastName": "Meikäläinen",
+  "userGroup": "JYU",
+  "emailAddress": "12345@gmail.com",
+  "role": "admin",
+  "priority": "super"
+}, {
+  "userID": "004",
+  "username": "Sepi",
+  "firstName": "Seppo",
+  "lastName": "Hovi",
+  "userGroup": "JYU",
+  "emailAddress": "12345@gmail.com",
+  "role": "user",
+  "priority": "normal"
+}, {
+  "userID": "005",
+  "username": "BO",
+  "firstName": "Barack",
+  "lastName": "Obama",
+  "userGroup": "LUT",
+  "emailAddress": "12345@gmail.com",
+  "role": "user",
+  "priority": "normal"
+}, {
+  "userID": "006",
+  "username": "Mara",
+  "firstName": "Martti",
+  "lastName": "Ahtisaari",
+  "userGroup": "LUT",
+  "emailAddress": "12345@gmail.com",
+  "role": "user",
+  "priority": "normal"
+}, {
+  "userID": "007",
+  "username": "maza",
+  "firstName": "Matti",
+  "lastName": "Nykänen",
+  "userGroup": "JHS",
+  "emailAddress": "12345@gmail.com",
+  "role": "admin",
+  "priority": "super"
+}]

@@ -1,0 +1,33 @@
+{
+    "geometry": {
+        "detector_theta": 41,
+        "target_theta": 20.5
+    },
+    "general": {
+        "name": "Default",
+        "description": "These are default measurement parameters.",
+        "modification_time": "Thu Apr  2 01:37:55 2020 +0300 FLE Daylight Time",
+        "modification_time_unix": 1585780675.3356683
+    },
+    "run": {
+        "fluence": 1000000000.0,
+        "current": 1.07,
+        "charge": 0.641,
+        "time": 600
+    },
+    "beam": {
+        "ion": "35Cl",
+        "element": "",
+        "isotope": 0,
+        "energy": 10,
+        "charge": 4,
+        "charge_state": 4,
+        "energy_distribution": 0,
+        "spot_size": [
+            3.0,
+            5.0
+        ],
+        "divergence": 0,
+        "profile": "Uniform"
+    }
+}
